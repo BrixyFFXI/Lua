@@ -1,0 +1,13 @@
+input /equip head "charis tiara +2";
+input /equip body "charis casaque +2";
+input /equip hands "thaumas gloves";
+input /equip legs "thaumas kecks";
+input /equip feet "charis toeshoes +2";
+input /equip waist "twilight belt";
+input /equip back "atheling mantle";
+input /equip ring1 "epona's ring";
+input /equip ring2 "rajas ring";
+input /equip ear1 "brutal earring";
+input /equip ear2 "suppanomimi";
+input /equip ammo "potestas bomblet";
+input /equip neck "charis necklace";
